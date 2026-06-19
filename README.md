@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sayed</h1>
 <h3 align="center">WEB DEVELOPER || COMPETITIVE PROGRAMMER</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sayedcraft&label=Profile%20views&color=0e75b6&style=flat" alt="sayedcraft" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedcraft" alt="sayedcraft" /></a> 
-</p>
 
 ---
 
